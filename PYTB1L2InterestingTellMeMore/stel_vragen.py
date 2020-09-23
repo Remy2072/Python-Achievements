@@ -1,0 +1,8 @@
+print("Hey hallo wie ben jij?")
+naam =input()
+print ("Aangenaam",naam,"ik ben Remy")
+leeftijd =input("Mag ik vragen hoe oud je bent")
+print("Nice, ik wist niet dat je",leeftijd,"was")
+print("En waar kom je vandaan",naam,)
+stad =input()
+print("Cool, dus kort samengevat je heet",naam,"je bent",leeftijd,"en komt uit",stad,)
